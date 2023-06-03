@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shivi Goel
+### **Hi there 👋, I'm Shivi Goel**
 #### Web Developer | Coding Enthusiast
 I am a student at KIET Group of Institutions, currently doing B.Tech in Computer Science. I am a coding enthusiast and a web development addict.
 
